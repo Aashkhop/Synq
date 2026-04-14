@@ -1,17 +1,29 @@
-# synq
+# SynQ
 
-A new Flutter project.
+SynQ is a powerful cross-platform application built with Flutter.
+
+## Features
+
+- Built with Flutter for smooth and responsive UI.
+- Follows clean architecture principles.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+To run this project locally, ensure you have Flutter installed.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/Aashkhop/Synq.git
+   ```
+2. Navigate to the project directory:
+   ```bash
+   cd Synq
+   ```
+3. Get Flutter dependencies:
+   ```bash
+   flutter pub get
+   ```
+4. Run the app:
+   ```bash
+   flutter run
+   ```
