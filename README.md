@@ -6,6 +6,13 @@ SynQ is a powerful cross-platform application built with Flutter.
 
 - Built with Flutter for smooth and responsive UI.
 - Follows clean architecture principles.
+- Integrated with Firebase for authentication and database services.
+
+## Tech Stack
+
+- **Frontend:** Flutter & Dart
+- **Backend/Services:** Firebase (Authentication, Firestore Database, Storage)
+- **Architecture:** Clean Architecture with Provider state management (based on codebase patterns)
 
 ## Getting Started
 
